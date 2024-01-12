@@ -11,6 +11,8 @@ public class Main {
 
 	     display.display();
 
+	     System.out.println("Hello I'm coming from the main method");
+
     }
 
     
