@@ -17,7 +17,6 @@ public class Main {
 
 	     System.out.println("Hello what's going ");
 	     System.out.println("The Lord has been merciful to me");
-	     System.out.println("I've conquered");
 
     }
 
