@@ -11,6 +11,8 @@ public class Main {
 
 	     display.display();
 
+	     System.out.println("Hello what's going ");
+	     System.out.println("The Lord has been merciful to me");
     }
 
     
